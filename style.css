@@ -1,0 +1,20 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+H1,H2,H3,H4,H5,H6,P{
+    line-height: initial !important;
+}
+.button{
+    color: aquamarine;
+}
+.image{
+   padding-top: 10px;
+}
+.brand-logo{
+    font-style: initial;
+    
+}
+.header{
+    background-image: url(Bkf9VP.jpg);
+}
